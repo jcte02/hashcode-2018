@@ -5,6 +5,6 @@ Solution of team Fläsbîng for Hashcode 2018
 
 # Team
 - Fabio Endrizzi (jcte02)
-- Gabriele De Candido
+- Gabriele De Candido (lelebus)
 
 >With :heart: from Free University of Bozen-Bolzano
